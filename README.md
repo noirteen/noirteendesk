@@ -25,6 +25,6 @@ ESG and social science.
 
 **Description:** 
 
-([Full Description](https://github.com/noirteen/noirteendesk/blob/main/Carbon%20Emission%20Analysis%3A%20SEVENTEEN%20%22RIGHT%20HERE%22%20World%20Tour))
+([Full Project Details](https://github.com/noirteen/noirteendesk/blob/main/Carbon%20Emission%20Analysis%3A%20SEVENTEEN%20%22RIGHT%20HERE%22%20World%20Tour))
 
 This project analyzes the estimated carbon emissions generated during SEVENTEEN’s “RIGHT HERE” World Tour, which concluded in 2025. The analysis focuses on number of attendees and energy consumption per concert stop.
