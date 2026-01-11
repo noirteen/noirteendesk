@@ -9,7 +9,7 @@ a sleek corner for my projects — welcome.
 📈 Aspiring Data Analyst 
 
 🧠 Interested in data-driven decision-making, social insights, and storytelling with data, practicing to apply it in 
-ESG, health care specifically in mental heath, and social science.
+ESG and social science.
 
 📫 Email: [benitezclaireae@gmail.com]
 
