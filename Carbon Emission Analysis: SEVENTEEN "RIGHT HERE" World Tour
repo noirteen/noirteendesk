@@ -1,0 +1,38 @@
+Project 1
+
+🌍 Carbon Emission Analysis: SEVENTEEN "RIGHT HERE" World Tour
+
+Description:
+This project analyzes the estimated carbon emissions generated during the Asia leg of SEVENTEEN’s “RIGHT HERE” World Tour, which concluded in 2025. The analysis focuses on number of attendees and energy consumption per concert stop.
+
+As this was my first data analytics project, I manually extracted data from publicly available sources, then structured, cleaned, and analyzed the dataset using Microsoft Excel. Special care was taken to ensure data consistency, appropriate formatting, and transparency of assumptions before proceeding with analysis.
+
+Data Structure (Excel Workbook):
+
+1. Raw_Data – manually collected data from public sources
+
+2. Assumptions – documented assumptions used for emission estimates
+
+3. Clean_Data – formatted and standardized dataset for analysis
+
+4. Analysis – pivot tables and stacked bar charts visualizing:
+
+- Travel emissions
+      
+- Energy emissions
+
+- Total emissions per tour stop
+
+Methodology Notes & Limitations
+
+This analysis focuses primarily on the **number of concert attendees** and relies on assumption-based estimates due to data availability constraints.
+
+Specific limitations include:
+
+The geographic origin of fans traveling to each concert stop is unknown; therefore, travel-related emissions were estimated using generalized assumptions rather than individual point-to-location data.
+
+Actual venue electricity consumption data was not publicly available, so energy-related emissions were calculated using standardized assumptions and publicly referenced benchmarks.
+
+All assumptions used in the analysis are explicitly documented in the Assumptions sheet to maintain transparency and analytical integrity.
+
+As a result, the findings should be interpreted as estimated projections rather than exact emission values, intended to provide a high-level understanding of the potential environmental impact of large-scale concert tours.
