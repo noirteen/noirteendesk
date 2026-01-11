@@ -3,7 +3,7 @@ Project 1
 🌍 Carbon Emission Analysis: SEVENTEEN "RIGHT HERE" World Tour (SEVENTEEN_RIGHT_HERE_ESG_Analysis)
 
 Description:
-This project analyzes the estimated carbon emissions generated during the Asia leg of SEVENTEEN’s “RIGHT HERE” World Tour, which concluded in 2025. The analysis focuses on number of attendees and energy consumption per concert stop.
+This project analyzes the estimated carbon emissions generated during SEVENTEEN’s “RIGHT HERE” World Tour, which concluded in 2025. The analysis focuses on number of attendees and energy consumption per concert stop.
 
 As this was my first data analytics project, I manually extracted data from publicly available sources, then structured, cleaned, and analyzed the dataset using Microsoft Excel. Special care was taken to ensure data consistency, appropriate formatting, and transparency of assumptions before proceeding with analysis.
 
